@@ -1,0 +1,51 @@
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+h1:hover {
+    color: black;
+}
+
+#quote_Nelson {
+    text-align: center;
+    color: white;
+}
+
+#name_Nelson {
+    text-align: center;
+    color: white;
+    font-size: 1.2em
+}
+
+#principles {
+    text-align: center;
+    font-weight: bold;
+}
+
+#images_Nelson {
+    height: 10%;
+    width: 10%;    
+}
+
+#center_imagen {
+    text-align: center;
+}
+
+#quote_end {
+    text-align: center;
+    color: white;
+    font: 140% sans-serif;
+    margin: 5px 40px; 
+}
+
+#end {
+    text-align: center;
+    color: black;
+}
