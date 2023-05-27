@@ -1,0 +1,38 @@
+
+#circles {
+    width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#Inferior {
+    width: 100%;
+    display: block;
+    height: auto;
+    background-color: rgb(80, 79, 79);
+    text-align: center;
+    border: none;
+}
+
+#desk {
+    width: 20%;
+    border-radius: 50%;
+    margin: 50px;
+    border: 10px solid gray;
+
+}
+
+#graphic {
+    width: 20%;
+    border-radius: 50%;
+    margin: 50px; 
+    border: 10px solid gray;
+}
+
+#person {
+    width: 20%;
+    border-radius: 50%;
+    margin: 50px; 
+    border: 10px solid gray;
+}
